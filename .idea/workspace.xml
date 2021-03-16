@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="64c432ee-e000-49f5-95a2-40c741ab09a3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="64c432ee-e000-49f5-95a2-40c741ab09a3" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,7 +48,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615881839198</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="добавлен Procfile">
+      <created>1615891814695</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1615891814695</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -60,10 +64,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="добавлен Procfile" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="386" y="0" key="CommitChangelistDialog2" timestamp="1615881836079">
+    <state x="386" y="0" key="CommitChangelistDialog2" timestamp="1615891811729">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="386" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1615881836079" />
+    <state x="386" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1615891811729" />
     <state x="510" y="114" key="FileChooserDialogImpl" timestamp="1615880857531">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
