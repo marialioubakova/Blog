@@ -23,9 +23,9 @@ from wtforms import PasswordField, BooleanField, SubmitField
 from wtforms.fields.html5 import EmailField
 from wtforms.validators import DataRequired
 
-from Блог_версия2.data import news_resources
-from Блог_версия2.data.news import News
-from Блог_версия2.data.users import User
+from data import news_resources
+from data.news import News
+from data.users import User
 
 app = Flask(__name__)
 login_manager = LoginManager()
