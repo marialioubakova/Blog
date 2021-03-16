@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="64c432ee-e000-49f5-95a2-40c741ab09a3" name="Default Changelist" comment="" />
+    <list default="true" id="64c432ee-e000-49f5-95a2-40c741ab09a3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,6 +25,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -55,7 +59,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615891814695</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="добавлен Procfile">
+      <created>1615891859050</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1615891859050</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -64,17 +75,21 @@
     <option name="LAST_COMMIT_MESSAGE" value="добавлен Procfile" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="386" y="0" key="CommitChangelistDialog2" timestamp="1615891811729">
+    <state x="386" y="0" key="CommitChangelistDialog2" timestamp="1615891855707">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="386" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1615891811729" />
+    <state x="386" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1615891855707" />
     <state x="510" y="114" key="FileChooserDialogImpl" timestamp="1615880857531">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="510" y="114" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1615880857531" />
-    <state x="322" y="106" key="Vcs.Push.Dialog.v2" timestamp="1615882159663">
+    <state x="233" y="15" key="SettingsEditor" timestamp="1615893588046">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="322" y="106" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1615882159663" />
+    <state x="233" y="15" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1615893588046" />
+    <state x="322" y="106" key="Vcs.Push.Dialog.v2" timestamp="1615891874795">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="322" y="106" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1615891874795" />
   </component>
 </project>
