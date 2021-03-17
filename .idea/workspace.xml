@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="64c432ee-e000-49f5-95a2-40c741ab09a3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main_double_v2.py" beforeDir="false" afterPath="$PROJECT_DIR$/main_double_v2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/blogs.sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/db/blogs.sqlite" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +25,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Библиотеки№1" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
   </component>
   <component name="RunManager">
@@ -101,47 +102,63 @@
       <option name="project" value="LOCAL" />
       <updated>1615893636691</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="исправлены ссылки на классы">
+      <created>1615893965445</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1615893965445</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="добавлены api" />
     <MESSAGE value="добавлен Procfile" />
     <MESSAGE value="добавлен requirement" />
-    <option name="LAST_COMMIT_MESSAGE" value="добавлен requirement" />
+    <MESSAGE value="исправлены ссылки на классы" />
+    <option name="LAST_COMMIT_MESSAGE" value="исправлены ссылки на классы" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="386" y="0" key="CommitChangelistDialog2" timestamp="1615893633931">
+    <state x="386" y="0" key="CommitChangelistDialog2" timestamp="1615893957837">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="386" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1615893633931" />
-    <state x="510" y="114" key="FileChooserDialogImpl" timestamp="1615880857531">
+    <state x="386" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1615893957837" />
+    <state x="510" y="114" key="FileChooserDialogImpl" timestamp="1616014298607">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="510" y="114" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1615880857531" />
-    <state width="1052" height="160" key="GridCell.Tab.0.bottom" timestamp="1615893911004">
+    <state x="510" y="114" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1616014298607" />
+    <state width="1052" height="360" key="GridCell.Tab.0.bottom" timestamp="1616014703945">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1052" height="160" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1615893911004" />
-    <state width="1052" height="160" key="GridCell.Tab.0.center" timestamp="1615893911004">
+    <state width="1052" height="360" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1616014703945" />
+    <state width="1052" height="360" key="GridCell.Tab.0.center" timestamp="1616014703937">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1052" height="160" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1615893911004" />
-    <state width="1052" height="160" key="GridCell.Tab.0.left" timestamp="1615893911004">
+    <state width="1052" height="360" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1616014703937" />
+    <state width="1052" height="360" key="GridCell.Tab.0.left" timestamp="1616014703937">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1052" height="160" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1615893911004" />
-    <state width="1052" height="160" key="GridCell.Tab.0.right" timestamp="1615893911004">
+    <state width="1052" height="360" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1616014703937" />
+    <state width="1052" height="360" key="GridCell.Tab.0.right" timestamp="1616014703937">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1052" height="160" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1615893911004" />
+    <state width="1052" height="360" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1616014703937" />
+    <state x="176" y="61" key="MergeDialog" timestamp="1616015553956">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="176" y="61" key="MergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1616015553956" />
+    <state x="442" y="87" key="MultipleFileMergeDialog" timestamp="1616015553980">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="442" y="87" key="MultipleFileMergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1616015553980" />
     <state x="233" y="15" key="SettingsEditor" timestamp="1615893588046">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="233" y="15" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1615893588046" />
-    <state x="322" y="106" key="Vcs.Push.Dialog.v2" timestamp="1615893654908">
+    <state x="322" y="106" key="Vcs.Push.Dialog.v2" timestamp="1616015295015">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="322" y="106" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1615893654908" />
+    <state x="322" y="106" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1616015295015" />
   </component>
 </project>
